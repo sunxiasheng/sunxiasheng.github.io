@@ -1,7 +1,4 @@
-# Skinny Bones Gemfile
-source "https://rubygems.org"
+# frozen_string_literal: true
 
-gem "jekyll"
-gem "jekyll-sitemap"
-gem "jekyll-gist"
-gem "jekyll-feed"
+source "https://rubygems.org"
+gemspec
